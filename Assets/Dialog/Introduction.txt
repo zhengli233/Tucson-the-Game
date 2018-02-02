@@ -1,0 +1,2 @@
+You are Steve, a student at the University of Arizona in the astronomy department.  You're working on an internship for Professor Ivarson, who has summoned you this afternoon for a job.  (Press Space to Continue)
+Move Steve by pressing the arrow keys, press up to use doors, and use 'E' to interact with objects or people.  (Press Space to Continue)

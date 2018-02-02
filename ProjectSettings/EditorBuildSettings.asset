@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Opening.unity
+    guid: 0d769a724345d284fa866491bcb36468
+  - enabled: 1
+    path: Assets/Map1.unity
+    guid: 34b4b01ff4f920d4ca7d0f0e9b1421a1
+  - enabled: 1
+    path: Assets/Fight.unity
+    guid: 3d7d501becce4ed4889ec3d71c6d965a
+  - enabled: 1
+    path: Assets/Downtown.unity
+    guid: fc07c34ec199439449ac0fd263fd64be
+  - enabled: 1
+    path: Assets/FightInDowntown.unity
+    guid: fcc193d85f1488e4ba68f478420ca01c
+  - enabled: 1
+    path: Assets/Bar.unity
+    guid: 4ad185eeb1d700b4498fd62dfa66236a
+  - enabled: 1
+    path: Assets/FightInBar.unity
+    guid: 64a015868ffe31b4c80a030af9cdd122
+  - enabled: 1
+    path: Assets/SportsStore.unity
+    guid: 68b9e3a06d6c01c42ad7ee9d5f5b86dd
+  - enabled: 1
+    path: Assets/FightInSS.unity
+    guid: 1029877b919ae4444baee73e802c38ad
+  - enabled: 1
+    path: Assets/Maze.unity
+    guid: ee786b4d2fe99b641af45e5c2f8f332f
+  - enabled: 1
+    path: Assets/FightInMaze.unity
+    guid: a42c4da3d4bd8c64c863eced62259275
+  - enabled: 1
+    path: Assets/Final.unity
+    guid: 808af47cb75abec4c873c596f2179bc4
+  - enabled: 1
+    path: Assets/FightInFinal.unity
+    guid: 09c21580d4662af4285be68f8466d936
+  - enabled: 1
+    path: Assets/FightCreeps.unity
+    guid: fa98982913002a74d8cb523918b9c559
+  - enabled: 1
+    path: Assets/AfterFinal.unity
+    guid: 35bac8b4a3e908547a36b4216bab45da
+  - enabled: 1
+    path: Assets/Ending.unity
+    guid: eb4bead8c22237447b9a257598640c43
+  - enabled: 1
+    path: Assets/Jail.unity
+    guid: ef747ff8a94f8f6439c381b62ac86fe5
+  - enabled: 1
+    path: Assets/OuterSpace.unity
+    guid: 44143c33eb479ea41a047b1942b1775d

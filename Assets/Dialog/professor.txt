@@ -1,0 +1,12 @@
+Professor:  Steve, we have an incident going on up at A mountain.  It’s been giving off some strange readings.  Go up there and check it out.
+Steve: What kind of incident?
+Prof: Something fell from space and landed on the mountain.  You need the additional credit so go and examine the site to see what it is.
+Steve: Sure thing professor.  Does it need to be now?  I was going to-
+Prof: Yes, it does.  There's no time to dawdle.
+Steve: Alright, Professor.  I'll get going.
+Prof: Good.  Oh I almost forgot, you have a Test today.  Take it quickly before you leave.
+Steve: Aww, no credit for running this errand?
+Prof: Absolutely not.
+Steve: Alright I’ll take it before I leave.
+Prof: You can go downstairs through the doors on the left side and go upstairs through the doors on the right side.
+Steve: Got it!
